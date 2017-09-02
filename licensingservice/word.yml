@@ -1,0 +1,14 @@
+---
+spring:
+  profiles: service-1
+words: I,You,He,She,It
+  
+---
+spring:
+  profiles: service-2
+words: ran,knew,had,saw,bought
+
+---
+spring:
+  profiles: service-3
+words: a,the
